@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Twilight_Road_Main.unity
+  isLoaded: 1
+  isActive: 1
